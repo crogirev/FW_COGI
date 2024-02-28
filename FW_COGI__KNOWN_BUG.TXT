@@ -1,0 +1,3 @@
+lorsque le script est bloqué par la combinaison 'fo',
+lors de la question: saisir un espace seulement et appuyer sur entrée,
+le script se termine (bug).
